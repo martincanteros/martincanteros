@@ -60,7 +60,7 @@ Estou atualmente me formando no técnico de informática de 3 anos, sou um **Jun
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia dos vencedores.
 
 > "Códigos mal feitos, já mais serão vistos no meu perfil.
 
