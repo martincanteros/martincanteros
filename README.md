@@ -1,4 +1,4 @@
-## Olá, me chamo Martin Augusto e sou um Dev Junior!! 👋
+## Olá, me chamo Martin Augusto e sou um Dev Junior! 👋
 
 <!--
 **martincanteros/martincanteros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
